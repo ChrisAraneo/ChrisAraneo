@@ -9,4 +9,4 @@
 i18n('spider', 'pl') === 'pająk' && i18n('spider', 'eo') === 'araneo' // true
 ```
 
-chris.araneo@gmail.com
+chris.araneo🕷️gmail.com
